@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="CommitPrefEdits">
+        <ignore path="src/com/lezyo/fsm/util/PreferencesUtil.java" />
+    </issue>
+    <issue id="DrawAllocation">
+        <ignore path="src/com/lezyo/fsm/widget/slidemenu/ActionsContentView.java" />
+    </issue>
+    <issue id="ResourceAsColor">
+        <ignore path="src/com/lezyo/fsm/activity/MainActivity.java" />
+        <ignore path="src/com/lezyo/fsm/fragment/OrderListFragment.java" />
+    </issue>
+    <issue id="UseSparseArrays">
+        <ignore path="src/com/lezyo/fsm/fragment/OrderListFragment.java" />
+        <ignore path="src/com/lezyo/fsm/fragment/TabManager1.java" />
+    </issue>
+</lint>

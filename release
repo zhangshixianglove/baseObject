@@ -1,0 +1,3 @@
+ant clean -buildfile build-lezyo-fsm4mac.xml
+ant pre_package -buildfile build-lezyo-fsm4mac.xml
+ant release_channel -buildfile build-lezyo-fsm4mac.xml -Dumeng_channel="lzy_test"  -Ddebug_switch=no -Dumeng_switch=yes

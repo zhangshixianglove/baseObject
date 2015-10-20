@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">来这游（司机版）</string>
+   <string name="result_failure">数据获取失败，请检查您的网络连接.</string>
+</resources>

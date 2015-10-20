@@ -1,0 +1,11 @@
+.classpath
+gen/
+bin/
+gen/*
+bin/*
+project.properties
+.DS_Store
+.settings
+.settings/*
+.Thumb.db
+.project
